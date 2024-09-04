@@ -9,3 +9,6 @@ You can refer to above links of how to install them. If you want to use above re
 4. Naviagate to 'envname' folder and git clone the repo.
 5. Navigate to cloned folder and unzip ten file. Install ten dependecny using command pip install .
 6. Now run the file using command ./wrapwrap.py /etc/passwd '<?php echo rounak' 'test' 1000 , i.e in the form wrapwrap.py filename prefix suffix nb_bytes.
+
+# Lab for testing
+You can use index.php to test if your payload is working fine
